@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Lab3_8",
+            "request": "launch",
+            "mainClass": "Lab3.Lab3_8",
+            "projectName": "OOP_78f23f62"
+        },
+        {
+            "type": "java",
+            "name": "Launch W6306021412016_4",
+            "request": "launch",
+            "mainClass": "Lab3.W6306021412016_4",
+            "projectName": "OOP_78f23f62"
+        },
+        {
+            "type": "java",
+            "name": "Launch Run_6306021412016",
+            "request": "launch",
+            "mainClass": "Lab2.Run_6306021412016",
+            "projectName": "OOP_78f23f62"
+        },
+        {
+            "type": "java",
+            "name": "Launch Runtest2_7",
+            "request": "launch",
+            "mainClass": "Lab2.Runtest2_7",
+            "projectName": "OOP_78f23f62"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2_4",
+            "request": "launch",
+            "mainClass": "Lab2.Lab2_4",
+            "projectName": "OOP_78f23f62"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2_1",
+            "request": "launch",
+            "mainClass": "Lab2.Lab2_1",
+            "projectName": "OOP_78f23f62"
+        }
+    ]
+}
